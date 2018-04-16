@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD5-D6C4
+
+ Directory of C:\MyFirstProject
+
+16-04-2018  10:39    <DIR>          .
+16-04-2018  10:39    <DIR>          ..
+16-04-2018  10:24               674 Hello.class
+16-04-2018  10:15               146 Hello.java
+16-04-2018  10:39                 0 test.txt
+               3 File(s)            820 bytes
+               2 Dir(s)   6,388,015,104 bytes free
